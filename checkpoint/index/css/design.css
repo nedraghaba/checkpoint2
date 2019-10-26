@@ -1,0 +1,65 @@
+body{
+     background:linear-gradient(217deg,red,black,black 90.71%);
+}
+h1{
+    color: white;
+    font-size: 40px;
+}
+.image {
+    padding-right: 30px;
+    padding-left: 30px;
+    display: inline-block;
+
+}
+header{
+ background: 217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%;   
+    
+}
+
+.logo{
+    float: left;
+    padding: 10;
+    size: 10px;
+    
+}
+nav{
+    float: right;
+
+} 
+nav ul{
+    margin-left: 0px;
+    padding: 0px;
+    list-style: none;
+    
+} 
+nav li{
+    display: inline-block;
+    margin:0 150px;
+    padding-right: 5px;
+    padding-top: 15px;
+
+    
+} 
+nav ul li a {
+color: white;
+text-decoration: none;
+text-transform: uppercase;
+font-size: 20px;
+font: bold;
+
+} 
+.yep :hover{
+    color: red;
+
+} 
+h2{
+    color: white;
+    font-size: 40px;
+} 
+#view{
+    color: crimson;
+}
+#view :hover{
+text-decoration-line: underline;
+    color: blue;
+}  
